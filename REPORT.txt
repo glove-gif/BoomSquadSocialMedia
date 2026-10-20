@@ -1,0 +1,4 @@
+add_repo available: no (ToolSearch found no match for "add_repo" or select:mcp__claude-code-remote__add_repo)
+add_repo result: not called (tool unavailable)
+Projects tool available: yes - project name: boomsquad
+Date/time: Tue Oct 20 21:22:52 UTC 2026
