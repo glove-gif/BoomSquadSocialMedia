@@ -1227,6 +1227,72 @@
   "prompt": "2D game SPRITE SHEET of Vylex, the villain, always in his villain suit from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Vylex, the villain, always in his villain suit per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Fingerless gloves; Every hand has exactly 3 fingers + 1 thumb. Keep his spiky black hair, blue visor, magenta armor and dark-purple coat exactly like the sheet. Weapons only when a panel says so. Facing RIGHT, using his giant energy shield (glowing magenta octagon, copy from the sheet). Panel 1: shield forming in front of his hand. Panel 2: shield fully up, blocking. Panel 3: pushed back behind the shield, boots skidding. Panel 4: shield fading, smug grin. No text, letters, numbers, labels, sound effects or logos anywhere."
  },
  {
+  "id": "base-wreckobot-bsb",
+  "char": "WreckOBot",
+  "outfit": "",
+  "pose": "base",
+  "refs": [
+   "BSB-WreckOBot-Sheet.png"
+  ],
+  "folder": "WreckOBot",
+  "prompt": "2D game SPRITE SHEET of Wreck-O-Bot, Vylex's giant gorilla-like robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Wreck-O-Bot, Vylex's giant gorilla-like robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep his huge build, swept-back spiky dark-gray crest, dark visor with two small red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Every hand has exactly 3 fingers + 1 thumb. Much bigger and heavier than a kid. Facing RIGHT. Panel 1: idle, hunched, huge fists hanging low, core glowing. Panel 2: ready stance, both fists raised. Panel 3: hit, knocked back, sparks flying off his armor. Panel 4: knocked down on his back, little smoke puffs and dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-wreckobot-bsb",
+  "char": "WreckOBot",
+  "outfit": "",
+  "pose": "run",
+  "refs": [
+   "BSB-WreckOBot-Sheet.png"
+  ],
+  "folder": "WreckOBot",
+  "prompt": "2D game SPRITE SHEET of Wreck-O-Bot, Vylex's giant gorilla-like robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Wreck-O-Bot, Vylex's giant gorilla-like robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep his huge build, swept-back spiky dark-gray crest, dark visor with two small red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Every hand has exactly 3 fingers + 1 thumb. Much bigger and heavier than a kid. Facing RIGHT, side view, heavy stomping run cycle, fists swinging. Panel 1: right foot stomping forward. Panel 2: passing pose, body low. Panel 3: left foot stomping forward. Panel 4: both feet off the ground mid-stride. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-wreckobot-bsb",
+  "char": "WreckOBot",
+  "outfit": "",
+  "pose": "atk",
+  "refs": [
+   "BSB-WreckOBot-Sheet.png"
+  ],
+  "folder": "WreckOBot",
+  "prompt": "2D game SPRITE SHEET of Wreck-O-Bot, Vylex's giant gorilla-like robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Wreck-O-Bot, Vylex's giant gorilla-like robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep his huge build, swept-back spiky dark-gray crest, dark visor with two small red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Every hand has exactly 3 fingers + 1 thumb. Much bigger and heavier than a kid. Facing RIGHT. Panel 1: both fists raised high overhead for a smash. Panel 2: double-fist smash into the ground, purple shockwave rings. Panel 3: giant punch forward, white motion smear. Panel 4: uppercut, fist driving upward. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-wreckobot-bsb",
+  "char": "WreckOBot",
+  "outfit": "",
+  "pose": "air",
+  "refs": [
+   "BSB-WreckOBot-Sheet.png"
+  ],
+  "folder": "WreckOBot",
+  "prompt": "2D game SPRITE SHEET of Wreck-O-Bot, Vylex's giant gorilla-like robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Wreck-O-Bot, Vylex's giant gorilla-like robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep his huge build, swept-back spiky dark-gray crest, dark visor with two small red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Every hand has exactly 3 fingers + 1 thumb. Much bigger and heavier than a kid. Facing RIGHT. Panel 1: big jump up, fists raised. Panel 2: falling feet first, speed lines above. Panel 3: ground-pound landing, purple shockwave and dust. Panel 4: rising from the landing crouch. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-wreckobot-bsb",
+  "char": "WreckOBot",
+  "outfit": "",
+  "pose": "block",
+  "refs": [
+   "BSB-WreckOBot-Sheet.png"
+  ],
+  "folder": "WreckOBot",
+  "prompt": "2D game SPRITE SHEET of Wreck-O-Bot, Vylex's giant gorilla-like robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Wreck-O-Bot, Vylex's giant gorilla-like robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep his huge build, swept-back spiky dark-gray crest, dark visor with two small red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Every hand has exactly 3 fingers + 1 thumb. Much bigger and heavier than a kid. Facing RIGHT. Panel 1: guard, huge forearms crossed in front of the visor. Panel 2: skidding backward, feet dragging, dust. Panel 3: hunched behind both fists, sparks bouncing off. Panel 4: stunned, swaying, sparks and dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "sp-wreckobot-bsb",
+  "char": "WreckOBot",
+  "outfit": "",
+  "pose": "sp",
+  "refs": [
+   "BSB-WreckOBot-Sheet.png"
+  ],
+  "folder": "WreckOBot",
+  "prompt": "2D game SPRITE SHEET of Wreck-O-Bot, Vylex's giant gorilla-like robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Wreck-O-Bot, Vylex's giant gorilla-like robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep his huge build, swept-back spiky dark-gray crest, dark visor with two small red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Every hand has exactly 3 fingers + 1 thumb. Much bigger and heavier than a kid. Facing RIGHT. Panel 1: chest core charging, bright purple glow, fists clenched. Panel 2: firing a big purple energy beam forward from the chest core. Panel 3: roaring, both fists raised, red eyes glowing. Panel 4: powering down, core dim, a little steam venting. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
   "id": "base-nobots-bsb",
   "char": "NoBots",
   "outfit": "",
