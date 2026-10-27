@@ -1,0 +1,1834 @@
+[
+ {
+  "mid": "MAHZLJB5DDQ",
+  "alt": "BeBot waving",
+  "uses": [
+   {
+    "page": 1,
+    "pid": "PBjRd55BGx0MSnxf",
+    "eid": "LBCmG8VzV39mWCsB",
+    "l": 240,
+    "t": 345,
+    "w": 121,
+    "h": 160
+   },
+   {
+    "page": 2,
+    "pid": "PBGDpGzDSkn0TZNj",
+    "eid": "LBm7fgVJKzh95gzf",
+    "l": 62,
+    "t": 461,
+    "w": 91,
+    "h": 120
+   },
+   {
+    "page": 4,
+    "pid": "PBVvVX4WwB3vwc60",
+    "eid": "LB1sMXhvfHKnyQWn",
+    "l": 113,
+    "t": 478,
+    "w": 121,
+    "h": 160
+   },
+   {
+    "page": 30,
+    "pid": "PBc2PM4rC7SYsM5L",
+    "eid": "LBZMDGVXwvf4khNP",
+    "l": 88,
+    "t": 192,
+    "w": 170,
+    "h": 224
+   }
+  ],
+  "chars": [
+   "bebot"
+  ],
+  "kind": "sprite",
+  "id": 0
+ },
+ {
+  "mid": "MAHZM-ipXAQ",
+  "alt": "The Boom Squad team (placeholder until the cover is done)",
+  "uses": [
+   {
+    "page": 3,
+    "pid": "PBf3zQ25SnXmD319",
+    "eid": "LB2FGD3LWcpTdT7X",
+    "l": 60,
+    "t": 410,
+    "w": 480,
+    "h": 349
+   },
+   {
+    "page": 4,
+    "pid": "PBVvVX4WwB3vwc60",
+    "eid": "LBm6dVkbXFy0PkQq",
+    "l": 300,
+    "t": 615,
+    "w": 236,
+    "h": 172
+   },
+   {
+    "page": 32,
+    "pid": "PBC8hSgmk2jHrDRS",
+    "eid": "LBfQQFp0hJrn5cF7",
+    "l": 20,
+    "t": 330,
+    "w": 560,
+    "h": 407
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster",
+   "bebot",
+   "blastcaptain"
+  ],
+  "kind": "sprite",
+  "id": 1
+ },
+ {
+  "mid": "MAHZLE4S8ZI",
+  "alt": "Blast Captain",
+  "uses": [
+   {
+    "page": 5,
+    "pid": "PB18k1hN461Cry3X",
+    "eid": "LBjsTm3X2sYS7rls",
+    "l": 155,
+    "t": 66,
+    "w": 290,
+    "h": 216
+   },
+   {
+    "page": 31,
+    "pid": "PBZYMvzTHbHC4wLZ",
+    "eid": "LBbMNd6gcF6rknyV",
+    "l": 357,
+    "t": 559,
+    "w": 160,
+    "h": 119
+   }
+  ],
+  "chars": [
+   "blastcaptain"
+  ],
+  "kind": "sprite",
+  "id": 2
+ },
+ {
+  "mid": "MAHZK9Le0oI",
+  "alt": "Go-Bots",
+  "uses": [
+   {
+    "page": 5,
+    "pid": "PB18k1hN461Cry3X",
+    "eid": "LBK343JchlCbp8C2",
+    "l": 300,
+    "t": 450,
+    "w": 250,
+    "h": 226
+   },
+   {
+    "page": 25,
+    "pid": "PB3y8vwnY9tdYMXx",
+    "eid": "LBggXQ7qKGZG0pXf",
+    "l": 350,
+    "t": 126,
+    "w": 168,
+    "h": 152
+   }
+  ],
+  "chars": [
+   "nobots"
+  ],
+  "kind": "sprite",
+  "id": 3
+ },
+ {
+  "mid": "MAHZNelv4ck",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 5,
+    "pid": "PB18k1hN461Cry3X",
+    "eid": "LBSDTH2RDHkGfv3C",
+    "l": 98,
+    "t": 400,
+    "w": 148,
+    "h": 260
+   },
+   {
+    "page": 22,
+    "pid": "PBg8KWvBg4JBKW2f",
+    "eid": "LBS0w00HtrZQjLRx",
+    "l": 128,
+    "t": 92,
+    "w": 117,
+    "h": 205
+   },
+   {
+    "page": 23,
+    "pid": "PBdkhxQvCqnNCjZd",
+    "eid": "LBTBVg3xXTzbj202",
+    "l": 298,
+    "t": 448,
+    "w": 63,
+    "h": 110
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 4
+ },
+ {
+  "mid": "MAHZJdvGwRM",
+  "alt": "Megabig City from above, smoke rising from the park",
+  "uses": [
+   {
+    "page": 12,
+    "pid": "PBctTDr9KLVS9mpW",
+    "eid": "LB11r455m9nGrMXQ",
+    "l": 78,
+    "t": 78,
+    "w": 444,
+    "h": 210
+   }
+  ],
+  "chars": [],
+  "kind": "full",
+  "id": 5
+ },
+ {
+  "mid": "MAHZJfGuvgc",
+  "alt": "BeBot worried on comms",
+  "uses": [
+   {
+    "page": 13,
+    "pid": "PBK4wMdw84LFhz1G",
+    "eid": "LBQddz7WJv3T9PbB",
+    "l": 103,
+    "t": 611,
+    "w": 150,
+    "h": 150
+   }
+  ],
+  "chars": [
+   "bebot"
+  ],
+  "kind": "sprite",
+  "id": 6
+ },
+ {
+  "mid": "MAHZJQz2IPc",
+  "alt": "Buster scoffs mid-flight",
+  "uses": [
+   {
+    "page": 13,
+    "pid": "PBK4wMdw84LFhz1G",
+    "eid": "LBlR58bw8525tckh",
+    "l": 115,
+    "t": 123,
+    "w": 153,
+    "h": 175
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 7
+ },
+ {
+  "mid": "MAHZJX-4OKU",
+  "alt": "Baboom worried, wait gesture",
+  "uses": [
+   {
+    "page": 13,
+    "pid": "PBK4wMdw84LFhz1G",
+    "eid": "LBRP01vBQLQzTK9J",
+    "l": 340,
+    "t": 133,
+    "w": 163,
+    "h": 165
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 8
+ },
+ {
+  "mid": "MAHZJWky7d4",
+  "alt": "Buster confident thumbs-up",
+  "uses": [
+   {
+    "page": 13,
+    "pid": "PBK4wMdw84LFhz1G",
+    "eid": "LB2mBK4Gzfsy5lBq",
+    "l": 312,
+    "t": 635,
+    "w": 128,
+    "h": 175
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 9
+ },
+ {
+  "mid": "MAHZJRlDOko",
+  "alt": "BeBot shrugs on comms",
+  "uses": [
+   {
+    "page": 13,
+    "pid": "PBK4wMdw84LFhz1G",
+    "eid": "LBDZ28ySgrtZDD3k",
+    "l": 458,
+    "t": 581,
+    "w": 48,
+    "h": 45
+   }
+  ],
+  "chars": [
+   "bebot"
+  ],
+  "kind": "sprite",
+  "id": 10
+ },
+ {
+  "mid": "MAHZJfg3e2g",
+  "alt": "Baboom and Buster hovering, shocked",
+  "uses": [
+   {
+    "page": 14,
+    "pid": "PBbyNntNMCYWTwhm",
+    "eid": "LBMrMLmy1J8wkzDx",
+    "l": 84,
+    "t": 350,
+    "w": 228,
+    "h": 190
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 11
+ },
+ {
+  "mid": "MAHZJVJFa40",
+  "alt": "Go-Bots wreck a park sign",
+  "uses": [
+   {
+    "page": 14,
+    "pid": "PBbyNntNMCYWTwhm",
+    "eid": "LBzDhgQ03F3brXVg",
+    "l": 78,
+    "t": 570,
+    "w": 216,
+    "h": 240
+   }
+  ],
+  "chars": [
+   "nobots"
+  ],
+  "kind": "full",
+  "id": 12
+ },
+ {
+  "mid": "MAHZJft18y8",
+  "alt": "Buster cracks his knuckles",
+  "uses": [
+   {
+    "page": 14,
+    "pid": "PBbyNntNMCYWTwhm",
+    "eid": "LBNdBwNryJvCCr8D",
+    "l": 348,
+    "t": 590,
+    "w": 133,
+    "h": 220
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 13
+ },
+ {
+  "mid": "MAHZJYN3a4w",
+  "alt": "Baboom asks, Buster points",
+  "uses": [
+   {
+    "page": 15,
+    "pid": "PBNgqWWV1T6QJvS8",
+    "eid": "LB6zfbZg1G25qbSz",
+    "l": 83,
+    "t": 650,
+    "w": 206,
+    "h": 154
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 14
+ },
+ {
+  "mid": "MAHZNdCTCEA",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 15,
+    "pid": "PBNgqWWV1T6QJvS8",
+    "eid": "LByrzwW0NDP1MrZj",
+    "l": 335,
+    "t": 643,
+    "w": 157,
+    "h": 164
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 15
+ },
+ {
+  "mid": "MAHZJnPHXUM",
+  "alt": "Buster and Baboom grip their weapons",
+  "uses": [
+   {
+    "page": 16,
+    "pid": "PBsVJFxppw9Z55w7",
+    "eid": "LBSM0bwsln1npR0w",
+    "l": 290,
+    "t": 78,
+    "w": 232,
+    "h": 234
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "full",
+  "id": 16
+ },
+ {
+  "mid": "MAHZNW32K-8",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 16,
+    "pid": "PBsVJFxppw9Z55w7",
+    "eid": "LBxzXY1B5gWvYrRR",
+    "l": 84,
+    "t": 210,
+    "w": 188,
+    "h": 216
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 17
+ },
+ {
+  "mid": "MAHZNRT1UIE",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 16,
+    "pid": "PBsVJFxppw9Z55w7",
+    "eid": "LBb6CcjgsxR7bc4X",
+    "l": 296,
+    "t": 342,
+    "w": 220,
+    "h": 213
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 18
+ },
+ {
+  "mid": "MAHZNsNho0E",
+  "alt": "Vylex close-up with remote",
+  "uses": [
+   {
+    "page": 16,
+    "pid": "PBsVJFxppw9Z55w7",
+    "eid": "LBhcss9bF1mjlqbz",
+    "l": 118,
+    "t": 582,
+    "w": 401,
+    "h": 228
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 19
+ },
+ {
+  "mid": "MAHZJlNoNus",
+  "alt": "Baboom studies the Go-Bots",
+  "uses": [
+   {
+    "page": 17,
+    "pid": "PBYrK1GtXFT5D3w9",
+    "eid": "LBFS3c5jj6gPq7Pf",
+    "l": 78,
+    "t": 78,
+    "w": 216,
+    "h": 170
+   }
+  ],
+  "chars": [
+   "baboom",
+   "nobots"
+  ],
+  "kind": "full",
+  "id": 20
+ },
+ {
+  "mid": "MAHZJmUje7Y",
+  "alt": "Buster eager with Boomstick",
+  "uses": [
+   {
+    "page": 17,
+    "pid": "PBYrK1GtXFT5D3w9",
+    "eid": "LBsjfMX4fSyJMX0G",
+    "l": 306,
+    "t": 78,
+    "w": 216,
+    "h": 170
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "full",
+  "id": 21
+ },
+ {
+  "mid": "MAHZJm8KNkI",
+  "alt": "Baboom worried, Buster cocky",
+  "uses": [
+   {
+    "page": 17,
+    "pid": "PBYrK1GtXFT5D3w9",
+    "eid": "LBVZw5PDSSm8gg6T",
+    "l": 78,
+    "t": 260,
+    "w": 300,
+    "h": 170
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "full",
+  "id": 22
+ },
+ {
+  "mid": "MAHZJrfAYMA",
+  "alt": "Baboom thinks, finger on chin",
+  "uses": [
+   {
+    "page": 17,
+    "pid": "PBYrK1GtXFT5D3w9",
+    "eid": "LBHRsk5nT8Cp868R",
+    "l": 390,
+    "t": 260,
+    "w": 132,
+    "h": 170
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "full",
+  "id": 23
+ },
+ {
+  "mid": "MAHZJhN7NiE",
+  "alt": "Buster rockets at the Go-Bots",
+  "uses": [
+   {
+    "page": 17,
+    "pid": "PBYrK1GtXFT5D3w9",
+    "eid": "LBDJtj6GxW3bcRs0",
+    "l": 78,
+    "t": 442,
+    "w": 444,
+    "h": 368
+   }
+  ],
+  "chars": [
+   "buster",
+   "nobots"
+  ],
+  "kind": "full",
+  "id": 24
+ },
+ {
+  "mid": "MAHZKK_XiP0",
+  "alt": "Buster charges, Go-Bots scatter",
+  "uses": [
+   {
+    "page": 18,
+    "pid": "PB8gx9mW958YqDTc",
+    "eid": "LBF6cpy2McNy8DT3",
+    "l": 78,
+    "t": 78,
+    "w": 216,
+    "h": 236
+   }
+  ],
+  "chars": [
+   "buster",
+   "nobots"
+  ],
+  "kind": "full",
+  "id": 25
+ },
+ {
+  "mid": "MAHZKI8vjTk",
+  "alt": "Buster swings and misses",
+  "uses": [
+   {
+    "page": 18,
+    "pid": "PB8gx9mW958YqDTc",
+    "eid": "LBLdxVNmk2SPgT8G",
+    "l": 306,
+    "t": 78,
+    "w": 216,
+    "h": 236
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "full",
+  "id": 26
+ },
+ {
+  "mid": "MAHZKE6j0y8",
+  "alt": "Buster frustrated",
+  "uses": [
+   {
+    "page": 18,
+    "pid": "PB8gx9mW958YqDTc",
+    "eid": "LBYVzf3f3dXTG8Hq",
+    "l": 78,
+    "t": 326,
+    "w": 216,
+    "h": 236
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "full",
+  "id": 27
+ },
+ {
+  "mid": "MAHZKMBfRzE",
+  "alt": "Go-Bots blur in circles around Buster",
+  "uses": [
+   {
+    "page": 18,
+    "pid": "PB8gx9mW958YqDTc",
+    "eid": "LBHf6dPcgqSKvKKb",
+    "l": 306,
+    "t": 326,
+    "w": 216,
+    "h": 236
+   }
+  ],
+  "chars": [
+   "buster",
+   "nobots"
+  ],
+  "kind": "full",
+  "id": 28
+ },
+ {
+  "mid": "MAHZKPck2A0",
+  "alt": "Swarm dives at Buster",
+  "uses": [
+   {
+    "page": 18,
+    "pid": "PB8gx9mW958YqDTc",
+    "eid": "LBCTcM28TlFYRMgm",
+    "l": 306,
+    "t": 574,
+    "w": 216,
+    "h": 236
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "full",
+  "id": 29
+ },
+ {
+  "mid": "MAHZNrQLZqA",
+  "alt": "Vylex turns the knobs on his remote",
+  "uses": [
+   {
+    "page": 18,
+    "pid": "PB8gx9mW958YqDTc",
+    "eid": "LBbfqb81BfsmF6YP",
+    "l": 81,
+    "t": 641,
+    "w": 210,
+    "h": 169
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 30
+ },
+ {
+  "mid": "MAHZKHz1LRA",
+  "alt": "Go-Bots capture Buster",
+  "uses": [
+   {
+    "page": 19,
+    "pid": "PBq7T1lyWrQQxrLM",
+    "eid": "LBgyzsWClvrCFBh6",
+    "l": 78,
+    "t": 78,
+    "w": 444,
+    "h": 520
+   }
+  ],
+  "chars": [
+   "buster",
+   "nobots"
+  ],
+  "kind": "full",
+  "id": 31
+ },
+ {
+  "mid": "MAHZKHlmCDE",
+  "alt": "Baboom shocked",
+  "uses": [
+   {
+    "page": 19,
+    "pid": "PBq7T1lyWrQQxrLM",
+    "eid": "LB9xylwBbxz6Nh1t",
+    "l": 78,
+    "t": 610,
+    "w": 216,
+    "h": 200
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "full",
+  "id": 32
+ },
+ {
+  "mid": "MAHZNXm7czg",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 19,
+    "pid": "PBq7T1lyWrQQxrLM",
+    "eid": "LBTJqbbjKJgGzpbj",
+    "l": 309,
+    "t": 620,
+    "w": 213,
+    "h": 190
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 33
+ },
+ {
+  "mid": "MAHZKLEMFmA",
+  "alt": "Buster struggles",
+  "uses": [
+   {
+    "page": 20,
+    "pid": "PBqBxlfB4r9w0HRT",
+    "eid": "LBvc5Qcpqyjz6MxW",
+    "l": 78,
+    "t": 300,
+    "w": 216,
+    "h": 230
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "full",
+  "id": 34
+ },
+ {
+  "mid": "MAHZNWs3AEo",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 20,
+    "pid": "PBqBxlfB4r9w0HRT",
+    "eid": "LB2M6C2cg32khGvv",
+    "l": 152,
+    "t": 84,
+    "w": 295,
+    "h": 198
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 35
+ },
+ {
+  "mid": "MAHZNe9hdaI",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 20,
+    "pid": "PBqBxlfB4r9w0HRT",
+    "eid": "LBMnnLrNsXmLx4qC",
+    "l": 300,
+    "t": 312,
+    "w": 200,
+    "h": 218
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 36
+ },
+ {
+  "mid": "MAHZNYOhLRM",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 20,
+    "pid": "PBqBxlfB4r9w0HRT",
+    "eid": "LBDcwmHb4zfLYX6P",
+    "l": 84,
+    "t": 550,
+    "w": 432,
+    "h": 251
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 37
+ },
+ {
+  "mid": "MAHZKMG0k_M",
+  "alt": "Baboom alone against the swarm",
+  "uses": [
+   {
+    "page": 21,
+    "pid": "PBNMG995pMqGqCp7",
+    "eid": "LB93br4RWRmTGC51",
+    "l": 78,
+    "t": 78,
+    "w": 444,
+    "h": 200
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "full",
+  "id": 38
+ },
+ {
+  "mid": "MAHZKJmeKpw",
+  "alt": "Baboom touches his earpiece",
+  "uses": [
+   {
+    "page": 21,
+    "pid": "PBNMG995pMqGqCp7",
+    "eid": "LBcbNMdPyz1DZgRN",
+    "l": 78,
+    "t": 290,
+    "w": 250,
+    "h": 250
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "full",
+  "id": 39
+ },
+ {
+  "mid": "MAHZKAZNmp0",
+  "alt": "Baboom frustrated",
+  "uses": [
+   {
+    "page": 21,
+    "pid": "PBNMG995pMqGqCp7",
+    "eid": "LBN7lKTk0bvcL2Jk",
+    "l": 78,
+    "t": 552,
+    "w": 236,
+    "h": 258
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "full",
+  "id": 40
+ },
+ {
+  "mid": "MAHZKNGhdRg",
+  "alt": "BeBot on comms, eyes wide",
+  "uses": [
+   {
+    "page": 21,
+    "pid": "PBNMG995pMqGqCp7",
+    "eid": "LBbqhs3fftDGnkg2",
+    "l": 343,
+    "t": 327,
+    "w": 176,
+    "h": 176
+   }
+  ],
+  "chars": [
+   "bebot"
+  ],
+  "kind": "sprite",
+  "id": 41
+ },
+ {
+  "mid": "MAHZKGx7D7A",
+  "alt": "BeBot on comms, thinking",
+  "uses": [
+   {
+    "page": 21,
+    "pid": "PBNMG995pMqGqCp7",
+    "eid": "LBX2FsYqRnfLRFCc",
+    "l": 329,
+    "t": 586,
+    "w": 190,
+    "h": 190
+   }
+  ],
+  "chars": [
+   "bebot"
+  ],
+  "kind": "sprite",
+  "id": 42
+ },
+ {
+  "mid": "MAHZKX0g6nA",
+  "alt": "BeBot on comms, puzzled",
+  "uses": [
+   {
+    "page": 22,
+    "pid": "PBg8KWvBg4JBKW2f",
+    "eid": "LBQWmYkg1VHpc2wH",
+    "l": 319,
+    "t": 93,
+    "w": 190,
+    "h": 190
+   }
+  ],
+  "chars": [
+   "bebot"
+  ],
+  "kind": "sprite",
+  "id": 43
+ },
+ {
+  "mid": "MAHZKQgQNX4",
+  "alt": "Baboom throws his boomerang",
+  "uses": [
+   {
+    "page": 22,
+    "pid": "PBg8KWvBg4JBKW2f",
+    "eid": "LBk6ZH8qn7tMz9NH",
+    "l": 191,
+    "t": 336,
+    "w": 209,
+    "h": 220
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 44
+ },
+ {
+  "mid": "MAHZNWclEXo",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 22,
+    "pid": "PBg8KWvBg4JBKW2f",
+    "eid": "LBz4QJh9jKGhq9kG",
+    "l": 308,
+    "t": 590,
+    "w": 188,
+    "h": 220
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 45
+ },
+ {
+  "mid": "MAHZKYbisEU",
+  "alt": "Baboom gets an idea",
+  "uses": [
+   {
+    "page": 23,
+    "pid": "PBdkhxQvCqnNCjZd",
+    "eid": "LB6FTY5WVWVJr0Cg",
+    "l": 290,
+    "t": 78,
+    "w": 197,
+    "h": 220
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 46
+ },
+ {
+  "mid": "MAHZKZuoK-U",
+  "alt": "Boomerang flying",
+  "uses": [
+   {
+    "page": 23,
+    "pid": "PBdkhxQvCqnNCjZd",
+    "eid": "LBs7cMwD7f9YdYLH",
+    "l": 455,
+    "t": 425,
+    "w": 50,
+    "h": 32
+   },
+   {
+    "page": 24,
+    "pid": "PB0gG3nhtz1QnrLB",
+    "eid": "LBCpfB4wpQvLHybw",
+    "l": 457,
+    "t": 145,
+    "w": 56,
+    "h": 36
+   }
+  ],
+  "chars": [],
+  "kind": "sprite",
+  "id": 47
+ },
+ {
+  "mid": "MAHZKXOdXxE",
+  "alt": "Go-Bots holding Buster",
+  "uses": [
+   {
+    "page": 23,
+    "pid": "PBdkhxQvCqnNCjZd",
+    "eid": "LBpMcB5Xz3d4tkcF",
+    "l": 162,
+    "t": 612,
+    "w": 128,
+    "h": 130
+   },
+   {
+    "page": 26,
+    "pid": "PB5fkqvffZp53LSn",
+    "eid": "LBypTklJV76ZPqzy",
+    "l": 360,
+    "t": 352,
+    "w": 155,
+    "h": 158
+   }
+  ],
+  "chars": [
+   "buster",
+   "nobots"
+  ],
+  "kind": "sprite",
+  "id": 48
+ },
+ {
+  "mid": "MAHZKZh8YLA",
+  "alt": "Baboom calm, arms crossed",
+  "uses": [
+   {
+    "page": 23,
+    "pid": "PBdkhxQvCqnNCjZd",
+    "eid": "LB35mzRf9vCBKf6D",
+    "l": 340,
+    "t": 585,
+    "w": 149,
+    "h": 225
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 49
+ },
+ {
+  "mid": "MAHZNbJ2Yfw",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 23,
+    "pid": "PBdkhxQvCqnNCjZd",
+    "eid": "LBT4v0Yv6bVPvtTv",
+    "l": 84,
+    "t": 631,
+    "w": 147,
+    "h": 173
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 50
+ },
+ {
+  "mid": "MAHZNc456kg",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 24,
+    "pid": "PB0gG3nhtz1QnrLB",
+    "eid": "LB5c6vnJnQGJWWQS",
+    "l": 205,
+    "t": 192,
+    "w": 314,
+    "h": 281
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 51
+ },
+ {
+  "mid": "MAHZK0b79dk",
+  "alt": "Remote knocked flying",
+  "uses": [
+   {
+    "page": 24,
+    "pid": "PB0gG3nhtz1QnrLB",
+    "eid": "LBgR5wKCzTr0vTRx",
+    "l": 335,
+    "t": 96,
+    "w": 50,
+    "h": 58
+   },
+   {
+    "page": 24,
+    "pid": "PB0gG3nhtz1QnrLB",
+    "eid": "LBwvKygJKPRV72XK",
+    "l": 262,
+    "t": 548,
+    "w": 50,
+    "h": 58
+   },
+   {
+    "page": 25,
+    "pid": "PB3y8vwnY9tdYMXx",
+    "eid": "LBlLVtCcvqNVq3q2",
+    "l": 297,
+    "t": 146,
+    "w": 44,
+    "h": 51
+   }
+  ],
+  "chars": [],
+  "kind": "sprite",
+  "id": 52
+ },
+ {
+  "mid": "MAHZK8b_x6E",
+  "alt": "Baboom catches his boomerang",
+  "uses": [
+   {
+    "page": 24,
+    "pid": "PB0gG3nhtz1QnrLB",
+    "eid": "LBvQt36xw7hKBTfW",
+    "l": 92,
+    "t": 552,
+    "w": 225,
+    "h": 255
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 53
+ },
+ {
+  "mid": "MAHZNWjQO28",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 24,
+    "pid": "PB0gG3nhtz1QnrLB",
+    "eid": "LBNlqV0djxwR28Rd",
+    "l": 342,
+    "t": 603,
+    "w": 178,
+    "h": 207
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 54
+ },
+ {
+  "mid": "MAHZNTxhKGA",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 25,
+    "pid": "PB3y8vwnY9tdYMXx",
+    "eid": "LBtyHkL542cqRzVb",
+    "l": 88,
+    "t": 140,
+    "w": 190,
+    "h": 110
+   },
+   {
+    "page": 26,
+    "pid": "PB5fkqvffZp53LSn",
+    "eid": "LBlgCrL9p75xh7xX",
+    "l": 310,
+    "t": 162,
+    "w": 141,
+    "h": 82
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 55
+ },
+ {
+  "mid": "MAHZK3ztvXQ",
+  "alt": "Baboom streaks past in a green blur",
+  "uses": [
+   {
+    "page": 25,
+    "pid": "PB3y8vwnY9tdYMXx",
+    "eid": "LBzvJf9L1YTXhylW",
+    "l": 84,
+    "t": 334,
+    "w": 270,
+    "h": 171
+   },
+   {
+    "page": 26,
+    "pid": "PB5fkqvffZp53LSn",
+    "eid": "LBv7lqyQ6L1d9VGy",
+    "l": 404,
+    "t": 124,
+    "w": 114,
+    "h": 72
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 56
+ },
+ {
+  "mid": "MAHZK1lcEGo",
+  "alt": "Baboom's hand grabs the remote",
+  "uses": [
+   {
+    "page": 25,
+    "pid": "PB3y8vwnY9tdYMXx",
+    "eid": "LB3cS0PG7qKDPd80",
+    "l": 372,
+    "t": 360,
+    "w": 148,
+    "h": 122
+   },
+   {
+    "page": 26,
+    "pid": "PB5fkqvffZp53LSn",
+    "eid": "LBwTrCQ5PGYt55VJ",
+    "l": 82,
+    "t": 650,
+    "w": 172,
+    "h": 142
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 57
+ },
+ {
+  "mid": "MAHZNXv6bfw",
+  "alt": "Vylex, adult villain",
+  "uses": [
+   {
+    "page": 25,
+    "pid": "PB3y8vwnY9tdYMXx",
+    "eid": "LBJkmM3FB3QvTp16",
+    "l": 392,
+    "t": 606,
+    "w": 105,
+    "h": 200
+   }
+  ],
+  "chars": [
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 58
+ },
+ {
+  "mid": "MAHZKz20eT8",
+  "alt": "Baboom lands holding the remote high",
+  "uses": [
+   {
+    "page": 25,
+    "pid": "PB3y8vwnY9tdYMXx",
+    "eid": "LBSPpJMfXhBxntF4",
+    "l": 150,
+    "t": 548,
+    "w": 157,
+    "h": 262
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 59
+ },
+ {
+  "mid": "MAHZK85izzI",
+  "alt": "Baboom's thumb hovers over OFF, sly grin",
+  "uses": [
+   {
+    "page": 26,
+    "pid": "PB5fkqvffZp53LSn",
+    "eid": "LBkrLjBq8C1ZGJr2",
+    "l": 118,
+    "t": 108,
+    "w": 136,
+    "h": 170
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 60
+ },
+ {
+  "mid": "MAHZKyCvNM4",
+  "alt": "Baboom hovers holding up the remote",
+  "uses": [
+   {
+    "page": 26,
+    "pid": "PB5fkqvffZp53LSn",
+    "eid": "LBjlX4Fk48ZrlmCS",
+    "l": 200,
+    "t": 300,
+    "w": 100,
+    "h": 200
+   },
+   {
+    "page": 26,
+    "pid": "PB5fkqvffZp53LSn",
+    "eid": "LBrdCPNjyfyPDL4l",
+    "l": 444,
+    "t": 586,
+    "w": 64,
+    "h": 128
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 61
+ },
+ {
+  "mid": "MAHZKyJ0C-Y",
+  "alt": "Switched-off Go-Bots",
+  "uses": [
+   {
+    "page": 26,
+    "pid": "PB5fkqvffZp53LSn",
+    "eid": "LBhmpZWGgXNXGQ2s",
+    "l": 398,
+    "t": 712,
+    "w": 118,
+    "h": 99
+   },
+   {
+    "page": 27,
+    "pid": "PB2cK8qH4ShXh8bC",
+    "eid": "LBDLvLgBQXD7Gh5D",
+    "l": 80,
+    "t": 192,
+    "w": 112,
+    "h": 94
+   },
+   {
+    "page": 28,
+    "pid": "PBlH1NPxt1Fb5JXR",
+    "eid": "LBd1Phf9yH0PR4Vl",
+    "l": 96,
+    "t": 728,
+    "w": 96,
+    "h": 81
+   }
+  ],
+  "chars": [
+   "nobots"
+  ],
+  "kind": "sprite",
+  "id": 62
+ },
+ {
+  "mid": "MAHZKzLeQpM",
+  "alt": "Buster freed, thumbs-up",
+  "uses": [
+   {
+    "page": 26,
+    "pid": "PB5fkqvffZp53LSn",
+    "eid": "LBpQfVQcmBBtntd2",
+    "l": 296,
+    "t": 612,
+    "w": 112,
+    "h": 198
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 63
+ },
+ {
+  "mid": "MAHZK9UC8Po",
+  "alt": "Buster high-fives Baboom",
+  "uses": [
+   {
+    "page": 27,
+    "pid": "PB2cK8qH4ShXh8bC",
+    "eid": "LBlzL2wth6ZCJSd7",
+    "l": 150,
+    "t": 148,
+    "w": 142,
+    "h": 140
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 64
+ },
+ {
+  "mid": "MAHZK7t3MCw",
+  "alt": "The boys turn, determined",
+  "uses": [
+   {
+    "page": 27,
+    "pid": "PB2cK8qH4ShXh8bC",
+    "eid": "LBf932ZKzqdjG70w",
+    "l": 326,
+    "t": 112,
+    "w": 176,
+    "h": 176
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 65
+ },
+ {
+  "mid": "MAHZK7vSS2A",
+  "alt": "Baboom baffled, Buster shrugs",
+  "uses": [
+   {
+    "page": 27,
+    "pid": "PB2cK8qH4ShXh8bC",
+    "eid": "LBqHnH8Hjs8LJnhF",
+    "l": 210,
+    "t": 635,
+    "w": 180,
+    "h": 175
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 66
+ },
+ {
+  "mid": "MAHZK55efUg",
+  "alt": "Baboom shrugs and laughs; Buster eyes the remote",
+  "uses": [
+   {
+    "page": 28,
+    "pid": "PBlH1NPxt1Fb5JXR",
+    "eid": "LBvL3ykTh1nrkF0J",
+    "l": 170,
+    "t": 128,
+    "w": 150,
+    "h": 150
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 67
+ },
+ {
+  "mid": "MAHZK0TZKVs",
+  "alt": "Baboom thinking, finger on chin",
+  "uses": [
+   {
+    "page": 28,
+    "pid": "PBlH1NPxt1Fb5JXR",
+    "eid": "LBRj89Hbbstwtf2J",
+    "l": 392,
+    "t": 136,
+    "w": 112,
+    "h": 142
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 68
+ },
+ {
+  "mid": "MAHZK03NroA",
+  "alt": "Baboom holds up the remote with an idea",
+  "uses": [
+   {
+    "page": 28,
+    "pid": "PBlH1NPxt1Fb5JXR",
+    "eid": "LB4Y62tK0BC1C6W2",
+    "l": 110,
+    "t": 300,
+    "w": 134,
+    "h": 210
+   }
+  ],
+  "chars": [
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 69
+ },
+ {
+  "mid": "MAHZKxXcjzE",
+  "alt": "The boys fly home toward the treehouse",
+  "uses": [
+   {
+    "page": 28,
+    "pid": "PBlH1NPxt1Fb5JXR",
+    "eid": "LBkRXxsqc6vPZTTr",
+    "l": 230,
+    "t": 576,
+    "w": 250,
+    "h": 194
+   },
+   {
+    "page": 29,
+    "pid": "PBQRKhGmBT1DGqhL",
+    "eid": "LBPLSXmB9mjXxDjb",
+    "l": 340,
+    "t": 120,
+    "w": 130,
+    "h": 101
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 70
+ },
+ {
+  "mid": "MAHZKw53nuc",
+  "alt": "BeBot and Blast Captain greet the boys with open arms",
+  "uses": [
+   {
+    "page": 29,
+    "pid": "PBQRKhGmBT1DGqhL",
+    "eid": "LBRmwHv8s0vXzcmc",
+    "l": 214,
+    "t": 374,
+    "w": 217,
+    "h": 214
+   }
+  ],
+  "chars": [
+   "bebot",
+   "blastcaptain",
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 71
+ },
+ {
+  "mid": "MAHZK47nzDk",
+  "alt": "Baboom beams; Buster looks down, embarrassed",
+  "uses": [
+   {
+    "page": 29,
+    "pid": "PBQRKhGmBT1DGqhL",
+    "eid": "LBPJPK3TJTZXLb4h",
+    "l": 90,
+    "t": 614,
+    "w": 193,
+    "h": 196
+   },
+   {
+    "page": 30,
+    "pid": "PBc2PM4rC7SYsM5L",
+    "eid": "LBB1rJDNgTbSvKVG",
+    "l": 350,
+    "t": 175,
+    "w": 121,
+    "h": 243
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 72
+ },
+ {
+  "mid": "MAHZK7PuvJ4",
+  "alt": "Buster, quiet and honest",
+  "uses": [
+   {
+    "page": 29,
+    "pid": "PBQRKhGmBT1DGqhL",
+    "eid": "LBYt34MXLMvrRZxg",
+    "l": 408,
+    "t": 660,
+    "w": 110,
+    "h": 150
+   }
+  ],
+  "chars": [
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 73
+ },
+ {
+  "mid": "MAHZNhqIeMM",
+  "alt": "Blast Captain, BeBot and Baboom listen",
+  "uses": [
+   {
+    "page": 30,
+    "pid": "PBc2PM4rC7SYsM5L",
+    "eid": "LBC03Dx7GTnQcsBg",
+    "l": 83,
+    "t": 619,
+    "w": 252,
+    "h": 187
+   }
+  ],
+  "chars": [
+   "baboom",
+   "bebot",
+   "blastcaptain"
+  ],
+  "kind": "sprite",
+  "id": 74
+ },
+ {
+  "mid": "MAHZLNDWPj8",
+  "alt": "BeBot, gentle",
+  "uses": [
+   {
+    "page": 30,
+    "pid": "PBc2PM4rC7SYsM5L",
+    "eid": "LBqfhR3xJwJnX3Cd",
+    "l": 357,
+    "t": 624,
+    "w": 160,
+    "h": 183
+   }
+  ],
+  "chars": [
+   "bebot"
+  ],
+  "kind": "sprite",
+  "id": 75
+ },
+ {
+  "mid": "MAHZLK4mBuk",
+  "alt": "Blast Captain, fist up; the boys smile up at him",
+  "uses": [
+   {
+    "page": 31,
+    "pid": "PBZYMvzTHbHC4wLZ",
+    "eid": "LBMjH4H839bcR1gx",
+    "l": 250,
+    "t": 88,
+    "w": 253,
+    "h": 190
+   }
+  ],
+  "chars": [
+   "blastcaptain",
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 76
+ },
+ {
+  "mid": "MAHZLDGYNkg",
+  "alt": "Blast Captain, a hand on each boy's shoulder",
+  "uses": [
+   {
+    "page": 31,
+    "pid": "PBZYMvzTHbHC4wLZ",
+    "eid": "LBbVR2frc60l9KH9",
+    "l": 278,
+    "t": 320,
+    "w": 240,
+    "h": 170
+   }
+  ],
+  "chars": [
+   "blastcaptain"
+  ],
+  "kind": "sprite",
+  "id": 77
+ },
+ {
+  "mid": "MAHZLDzESdw",
+  "alt": "The boys nod; Buster asks",
+  "uses": [
+   {
+    "page": 31,
+    "pid": "PBZYMvzTHbHC4wLZ",
+    "eid": "LB0RDxMmZ63pxyhb",
+    "l": 110,
+    "t": 545,
+    "w": 200,
+    "h": 133
+   }
+  ],
+  "chars": [
+   "buster",
+   "baboom"
+  ],
+  "kind": "sprite",
+  "id": 78
+ },
+ {
+  "mid": "MAHZLMInUcg",
+  "alt": "Baboom grins at Buster; Buster: oops",
+  "uses": [
+   {
+    "page": 31,
+    "pid": "PBZYMvzTHbHC4wLZ",
+    "eid": "LBwMZXn3G0cf799J",
+    "l": 260,
+    "t": 692,
+    "w": 170,
+    "h": 116
+   }
+  ],
+  "chars": [
+   "baboom",
+   "buster"
+  ],
+  "kind": "sprite",
+  "id": 79
+ },
+ {
+  "mid": "MAHZM9KfX5g",
+  "alt": "Vylex's red remote on BeBot's desk",
+  "uses": [
+   {
+    "page": 32,
+    "pid": "PBC8hSgmk2jHrDRS",
+    "eid": "LBzt9h9JqpHRRTxr",
+    "l": 470,
+    "t": 173,
+    "w": 48,
+    "h": 51
+   }
+  ],
+  "chars": [
+   "bebot",
+   "vylex"
+  ],
+  "kind": "sprite",
+  "id": 80
+ }
+]
