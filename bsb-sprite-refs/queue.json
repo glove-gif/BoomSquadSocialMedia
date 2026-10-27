@@ -1,0 +1,1284 @@
+[
+ {
+  "id": "base-baboomciv-bsb",
+  "char": "Baboom",
+  "outfit": "Civilian",
+  "pose": "base",
+  "refs": [
+   "BSB-Baboom-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Civilian",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-baboomciv-bsb",
+  "char": "Baboom",
+  "outfit": "Civilian",
+  "pose": "run",
+  "refs": [
+   "BSB-Baboom-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Civilian",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-baboomciv-bsb",
+  "char": "Baboom",
+  "outfit": "Civilian",
+  "pose": "atk",
+  "refs": [
+   "BSB-Baboom-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Civilian",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-baboomciv-bsb",
+  "char": "Baboom",
+  "outfit": "Civilian",
+  "pose": "air",
+  "refs": [
+   "BSB-Baboom-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Civilian",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-baboomciv-bsb",
+  "char": "Baboom",
+  "outfit": "Civilian",
+  "pose": "block",
+  "refs": [
+   "BSB-Baboom-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Civilian",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-baboomciv-bsb",
+  "char": "Baboom",
+  "outfit": "Civilian",
+  "pose": "react",
+  "refs": [
+   "BSB-Baboom-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Civilian",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-baboomciv-bsb",
+  "char": "Baboom",
+  "outfit": "Civilian",
+  "pose": "dance",
+  "refs": [
+   "BSB-Baboom-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Civilian",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "gloves-baboomciv-bsb",
+  "char": "Baboom",
+  "outfit": "Civilian",
+  "pose": "gloves",
+  "refs": [
+   "BSB-Baboom-Civilian-Sheet-NoHands.png",
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Civilian",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Putting on the Power-Up Gloves (fingerless green gloves with black cuffs, copy them from the second attached sheet). Panel 1: holding both gloves up in front of the chest, excited grin. Panel 2: sliding the first glove onto the right hand, looking at it. Panel 3: both gloves on, flexing the fingers, gloves starting to glow green. Panel 4: punching both fists together, bright green energy burst between the knuckles, confident grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-baboom-bsb",
+  "char": "Baboom",
+  "outfit": "Hero",
+  "pose": "base",
+  "refs": [
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Hero",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-baboom-bsb",
+  "char": "Baboom",
+  "outfit": "Hero",
+  "pose": "run",
+  "refs": [
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Hero",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-baboom-bsb",
+  "char": "Baboom",
+  "outfit": "Hero",
+  "pose": "atk",
+  "refs": [
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Hero",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-baboom-bsb",
+  "char": "Baboom",
+  "outfit": "Hero",
+  "pose": "air",
+  "refs": [
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Hero",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-baboom-bsb",
+  "char": "Baboom",
+  "outfit": "Hero",
+  "pose": "block",
+  "refs": [
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Hero",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-baboom-bsb",
+  "char": "Baboom",
+  "outfit": "Hero",
+  "pose": "react",
+  "refs": [
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Hero",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-baboom-bsb",
+  "char": "Baboom",
+  "outfit": "Hero",
+  "pose": "dance",
+  "refs": [
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Hero",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "sp-baboom-bsb",
+  "char": "Baboom",
+  "outfit": "Hero",
+  "pose": "sp",
+  "refs": [
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Baboom/Hero",
+  "prompt": "2D game SPRITE SHEET of Baboom (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Baboom (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, using the Trusty Boomerang (yellow with green bands, copy it from the sheet). Panel 1: quick green glow flash at the glove as the boomerang appears in the hand. Panel 2: wind-up, throwing arm pulled far back holding the boomerang. Panel 3: throw, arm extended forward, boomerang spinning away with a curved motion trail. Panel 4: catching the returning boomerang in one hand, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-busterciv-bsb",
+  "char": "Buster",
+  "outfit": "Civilian",
+  "pose": "base",
+  "refs": [
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Civilian",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-busterciv-bsb",
+  "char": "Buster",
+  "outfit": "Civilian",
+  "pose": "run",
+  "refs": [
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Civilian",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-busterciv-bsb",
+  "char": "Buster",
+  "outfit": "Civilian",
+  "pose": "atk",
+  "refs": [
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Civilian",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-busterciv-bsb",
+  "char": "Buster",
+  "outfit": "Civilian",
+  "pose": "air",
+  "refs": [
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Civilian",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-busterciv-bsb",
+  "char": "Buster",
+  "outfit": "Civilian",
+  "pose": "block",
+  "refs": [
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Civilian",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-busterciv-bsb",
+  "char": "Buster",
+  "outfit": "Civilian",
+  "pose": "react",
+  "refs": [
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Civilian",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-busterciv-bsb",
+  "char": "Buster",
+  "outfit": "Civilian",
+  "pose": "dance",
+  "refs": [
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Civilian",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "gloves-busterciv-bsb",
+  "char": "Buster",
+  "outfit": "Civilian",
+  "pose": "gloves",
+  "refs": [
+   "BSB-Buster-Civilian-Sheet-NoHands.png",
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Civilian",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Putting on the Power-Up Gloves (fingerless light-blue gloves with black cuffs, copy them from the second attached sheet). Panel 1: holding both gloves up in front of the chest, excited grin. Panel 2: sliding the first glove onto the right hand, looking at it. Panel 3: both gloves on, flexing the fingers, gloves starting to glow blue. Panel 4: punching both fists together, bright blue energy burst between the knuckles, confident grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-buster-bsb",
+  "char": "Buster",
+  "outfit": "Hero",
+  "pose": "base",
+  "refs": [
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Hero",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-buster-bsb",
+  "char": "Buster",
+  "outfit": "Hero",
+  "pose": "run",
+  "refs": [
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Hero",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-buster-bsb",
+  "char": "Buster",
+  "outfit": "Hero",
+  "pose": "atk",
+  "refs": [
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Hero",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-buster-bsb",
+  "char": "Buster",
+  "outfit": "Hero",
+  "pose": "air",
+  "refs": [
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Hero",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-buster-bsb",
+  "char": "Buster",
+  "outfit": "Hero",
+  "pose": "block",
+  "refs": [
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Hero",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-buster-bsb",
+  "char": "Buster",
+  "outfit": "Hero",
+  "pose": "react",
+  "refs": [
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Hero",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-buster-bsb",
+  "char": "Buster",
+  "outfit": "Hero",
+  "pose": "dance",
+  "refs": [
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Hero",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "sp-buster-bsb",
+  "char": "Buster",
+  "outfit": "Hero",
+  "pose": "sp",
+  "refs": [
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Buster/Hero",
+  "prompt": "2D game SPRITE SHEET of Buster (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Buster (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, using the Boomstick (straight glowing light-blue staff with darker-blue end caps, copy it from the sheet). Panel 1: quick blue glow flash at the glove as the Boomstick appears in the hand. Panel 2: ready stance holding the Boomstick across the body with both hands. Panel 3: big overhead swing, blue motion arc. Panel 4: thrusting the Boomstick forward, small blue energy burst at its tip. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-blastcaptainciv-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Civilian",
+  "pose": "base",
+  "refs": [
+   "BSB-BlastCaptain-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Civilian",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-blastcaptainciv-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Civilian",
+  "pose": "run",
+  "refs": [
+   "BSB-BlastCaptain-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Civilian",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-blastcaptainciv-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Civilian",
+  "pose": "atk",
+  "refs": [
+   "BSB-BlastCaptain-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Civilian",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-blastcaptainciv-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Civilian",
+  "pose": "air",
+  "refs": [
+   "BSB-BlastCaptain-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Civilian",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-blastcaptainciv-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Civilian",
+  "pose": "block",
+  "refs": [
+   "BSB-BlastCaptain-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Civilian",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-blastcaptainciv-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Civilian",
+  "pose": "react",
+  "refs": [
+   "BSB-BlastCaptain-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Civilian",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-blastcaptainciv-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Civilian",
+  "pose": "dance",
+  "refs": [
+   "BSB-BlastCaptain-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Civilian",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "gloves-blastcaptainciv-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Civilian",
+  "pose": "gloves",
+  "refs": [
+   "BSB-BlastCaptain-Civilian-Sheet-NoHands.png",
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Civilian",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Putting on the Power-Up Gloves (fingerless light-blue gloves with black cuffs, copy them from the second attached sheet). Panel 1: holding both gloves up in front of the chest, excited grin. Panel 2: sliding the first glove onto the right hand, looking at it. Panel 3: both gloves on, flexing the fingers, gloves starting to glow blue. Panel 4: punching both fists together, bright blue energy burst between the knuckles, confident grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-blastcaptain-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Hero",
+  "pose": "base",
+  "refs": [
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Hero",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-blastcaptain-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Hero",
+  "pose": "run",
+  "refs": [
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Hero",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-blastcaptain-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Hero",
+  "pose": "atk",
+  "refs": [
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Hero",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-blastcaptain-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Hero",
+  "pose": "air",
+  "refs": [
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Hero",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-blastcaptain-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Hero",
+  "pose": "block",
+  "refs": [
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Hero",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-blastcaptain-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Hero",
+  "pose": "react",
+  "refs": [
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Hero",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-blastcaptain-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Hero",
+  "pose": "dance",
+  "refs": [
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Hero",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "sp-blastcaptain-bsb",
+  "char": "BlastCaptain",
+  "outfit": "Hero",
+  "pose": "sp",
+  "refs": [
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "BlastCaptain/Hero",
+  "prompt": "2D game SPRITE SHEET of Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Blast Captain (grown man (the adult, big chest, small waist, thin upper arms, big forearms)) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, using the Trusty Boomerang (yellow with green bands, copy it from the sheet). Panel 1: quick blue glow flash at the glove as the boomerang appears in the hand. Panel 2: powerful wind-up, arm pulled far back. Panel 3: mighty throw, arm extended, boomerang spinning away with a curved motion trail. Panel 4: catching the returning boomerang, heroic grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-scoutciv-bsb",
+  "char": "Scout",
+  "outfit": "Civilian",
+  "pose": "base",
+  "refs": [
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Civilian",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-scoutciv-bsb",
+  "char": "Scout",
+  "outfit": "Civilian",
+  "pose": "run",
+  "refs": [
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Civilian",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-scoutciv-bsb",
+  "char": "Scout",
+  "outfit": "Civilian",
+  "pose": "atk",
+  "refs": [
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Civilian",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-scoutciv-bsb",
+  "char": "Scout",
+  "outfit": "Civilian",
+  "pose": "air",
+  "refs": [
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Civilian",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-scoutciv-bsb",
+  "char": "Scout",
+  "outfit": "Civilian",
+  "pose": "block",
+  "refs": [
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Civilian",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-scoutciv-bsb",
+  "char": "Scout",
+  "outfit": "Civilian",
+  "pose": "react",
+  "refs": [
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Civilian",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-scoutciv-bsb",
+  "char": "Scout",
+  "outfit": "Civilian",
+  "pose": "dance",
+  "refs": [
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Civilian",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "gloves-scoutciv-bsb",
+  "char": "Scout",
+  "outfit": "Civilian",
+  "pose": "gloves",
+  "refs": [
+   "BSB-Scout-Civilian-Sheet-NoHands.png",
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Civilian",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Putting on the Power-Up Gloves (fingerless red gloves with black cuffs, copy them from the second attached sheet). Panel 1: holding both gloves up in front of the chest, excited grin. Panel 2: sliding the first glove onto the right hand, looking at it. Panel 3: both gloves on, flexing the fingers, gloves starting to glow red. Panel 4: punching both fists together, bright red energy burst between the knuckles, confident grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-scout-bsb",
+  "char": "Scout",
+  "outfit": "Hero",
+  "pose": "base",
+  "refs": [
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Hero",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-scout-bsb",
+  "char": "Scout",
+  "outfit": "Hero",
+  "pose": "run",
+  "refs": [
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Hero",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-scout-bsb",
+  "char": "Scout",
+  "outfit": "Hero",
+  "pose": "atk",
+  "refs": [
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Hero",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-scout-bsb",
+  "char": "Scout",
+  "outfit": "Hero",
+  "pose": "air",
+  "refs": [
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Hero",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-scout-bsb",
+  "char": "Scout",
+  "outfit": "Hero",
+  "pose": "block",
+  "refs": [
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Hero",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-scout-bsb",
+  "char": "Scout",
+  "outfit": "Hero",
+  "pose": "react",
+  "refs": [
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Hero",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-scout-bsb",
+  "char": "Scout",
+  "outfit": "Hero",
+  "pose": "dance",
+  "refs": [
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Hero",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "sp-scout-bsb",
+  "char": "Scout",
+  "outfit": "Hero",
+  "pose": "sp",
+  "refs": [
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Scout/Hero",
+  "prompt": "2D game SPRITE SHEET of Scout (girl) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Scout (girl) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, using the Safestrike Shield (red chevron shield, copy it from the sheet). Panel 1: quick red glow flash at the glove as the shield appears on her forearm. Panel 2: shield raised in front, blocking, knees bent. Panel 3: shield bash, charging forward with the shield, motion lines. Panel 4: flying, holding onto the shield in front of her as it carries her forward through the air, speed lines. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-gavelciv-bsb",
+  "char": "Gavel",
+  "outfit": "Civilian",
+  "pose": "base",
+  "refs": [
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Civilian",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-gavelciv-bsb",
+  "char": "Gavel",
+  "outfit": "Civilian",
+  "pose": "run",
+  "refs": [
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Civilian",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-gavelciv-bsb",
+  "char": "Gavel",
+  "outfit": "Civilian",
+  "pose": "atk",
+  "refs": [
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Civilian",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-gavelciv-bsb",
+  "char": "Gavel",
+  "outfit": "Civilian",
+  "pose": "air",
+  "refs": [
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Civilian",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-gavelciv-bsb",
+  "char": "Gavel",
+  "outfit": "Civilian",
+  "pose": "block",
+  "refs": [
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Civilian",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-gavelciv-bsb",
+  "char": "Gavel",
+  "outfit": "Civilian",
+  "pose": "react",
+  "refs": [
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Civilian",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-gavelciv-bsb",
+  "char": "Gavel",
+  "outfit": "Civilian",
+  "pose": "dance",
+  "refs": [
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Civilian",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "gloves-gavelciv-bsb",
+  "char": "Gavel",
+  "outfit": "Civilian",
+  "pose": "gloves",
+  "refs": [
+   "BSB-Gavel-Civilian-Sheet-NoHands.png",
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Civilian",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Putting on the Power-Up Gloves (fingerless yellow gloves with black cuffs, copy them from the second attached sheet). Panel 1: holding both gloves up in front of the chest, excited grin. Panel 2: sliding the first glove onto the right hand, looking at it. Panel 3: both gloves on, flexing the fingers, gloves starting to glow yellow. Panel 4: punching both fists together, bright yellow energy burst between the knuckles, confident grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-gavel-bsb",
+  "char": "Gavel",
+  "outfit": "Hero",
+  "pose": "base",
+  "refs": [
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Hero",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-gavel-bsb",
+  "char": "Gavel",
+  "outfit": "Hero",
+  "pose": "run",
+  "refs": [
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Hero",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-gavel-bsb",
+  "char": "Gavel",
+  "outfit": "Hero",
+  "pose": "atk",
+  "refs": [
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Hero",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-gavel-bsb",
+  "char": "Gavel",
+  "outfit": "Hero",
+  "pose": "air",
+  "refs": [
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Hero",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-gavel-bsb",
+  "char": "Gavel",
+  "outfit": "Hero",
+  "pose": "block",
+  "refs": [
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Hero",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-gavel-bsb",
+  "char": "Gavel",
+  "outfit": "Hero",
+  "pose": "react",
+  "refs": [
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Hero",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-gavel-bsb",
+  "char": "Gavel",
+  "outfit": "Hero",
+  "pose": "dance",
+  "refs": [
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Hero",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "sp-gavel-bsb",
+  "char": "Gavel",
+  "outfit": "Hero",
+  "pose": "sp",
+  "refs": [
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Gavel/Hero",
+  "prompt": "2D game SPRITE SHEET of Gavel (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Gavel (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Facing RIGHT, using the Megaslam Hammer (silver hammer with dark handle and yellow grip, copy it from the sheet). Panel 1: quick yellow glow flash at the glove as the hammer appears in the hand. Panel 2: hammer raised high overhead with both hands. Panel 3: slamming the hammer into the ground, yellow shockwave rings spreading out. Panel 4: hammer resting on the shoulder, confident grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-ratchetciv-bsb",
+  "char": "Ratchet",
+  "outfit": "Civilian",
+  "pose": "base",
+  "refs": [
+   "BSB-Ratchet-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Civilian",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-ratchetciv-bsb",
+  "char": "Ratchet",
+  "outfit": "Civilian",
+  "pose": "run",
+  "refs": [
+   "BSB-Ratchet-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Civilian",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-ratchetciv-bsb",
+  "char": "Ratchet",
+  "outfit": "Civilian",
+  "pose": "atk",
+  "refs": [
+   "BSB-Ratchet-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Civilian",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-ratchetciv-bsb",
+  "char": "Ratchet",
+  "outfit": "Civilian",
+  "pose": "air",
+  "refs": [
+   "BSB-Ratchet-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Civilian",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-ratchetciv-bsb",
+  "char": "Ratchet",
+  "outfit": "Civilian",
+  "pose": "block",
+  "refs": [
+   "BSB-Ratchet-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Civilian",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-ratchetciv-bsb",
+  "char": "Ratchet",
+  "outfit": "Civilian",
+  "pose": "react",
+  "refs": [
+   "BSB-Ratchet-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Civilian",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-ratchetciv-bsb",
+  "char": "Ratchet",
+  "outfit": "Civilian",
+  "pose": "dance",
+  "refs": [
+   "BSB-Ratchet-Civilian-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Civilian",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "gloves-ratchetciv-bsb",
+  "char": "Ratchet",
+  "outfit": "Civilian",
+  "pose": "gloves",
+  "refs": [
+   "BSB-Ratchet-Civilian-Sheet-NoHands.png",
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Civilian",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Everyday clothes exactly as on the sheet, no goggles, no gloves. Every hand has exactly 3 fingers + 1 thumb. Nothing in the hands unless a panel says so. Facing RIGHT. Putting on the Power-Up Gloves (fingerless orange gloves with black cuffs, copy them from the second attached sheet). Panel 1: holding both gloves up in front of the chest, excited grin. Panel 2: sliding the first glove onto the right hand, looking at it. Panel 3: both gloves on, flexing the fingers, gloves starting to glow orange. Panel 4: punching both fists together, bright orange energy burst between the knuckles, confident grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-ratchet-bsb",
+  "char": "Ratchet",
+  "outfit": "Hero",
+  "pose": "base",
+  "refs": [
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Hero",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Keep his gray headphones and long open coat exactly like the sheet. Facing RIGHT. Panel 1: relaxed idle stance, arms loose, friendly smile. Panel 2: ready fighting stance, knees bent, both fists up, determined. Panel 3: hit, knocked back and leaning away, small yellow impact star by the shoulder, wincing. Panel 4: victory, one fist raised high, big grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-ratchet-bsb",
+  "char": "Ratchet",
+  "outfit": "Hero",
+  "pose": "run",
+  "refs": [
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Hero",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Keep his gray headphones and long open coat exactly like the sheet. Facing RIGHT, side view, fast run cycle, leaning forward, arms pumping. Panel 1: right leg far forward, heel touching down. Panel 2: passing pose, body low, legs together. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split wide. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-ratchet-bsb",
+  "char": "Ratchet",
+  "outfit": "Hero",
+  "pose": "atk",
+  "refs": [
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Hero",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Keep his gray headphones and long open coat exactly like the sheet. Facing RIGHT, fists and boots only, no weapon. Panel 1: punch wind-up, fist pulled back by the cheek. Panel 2: punch, arm fully extended forward, white motion smear, small impact star at the fist. Panel 3: kick, leg fully extended forward at hip height, white motion arc. Panel 4: uppercut, fist driving upward, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-ratchet-bsb",
+  "char": "Ratchet",
+  "outfit": "Hero",
+  "pose": "air",
+  "refs": [
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Hero",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Keep his gray headphones and long open coat exactly like the sheet. Facing RIGHT, airborne in every panel. Panel 1: leaping up, knees tucked, one fist raised. Panel 2: flying punch, body diving forward, arm extended. Panel 3: falling feet first, arms up, speed lines above. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-ratchet-bsb",
+  "char": "Ratchet",
+  "outfit": "Hero",
+  "pose": "block",
+  "refs": [
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Hero",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Keep his gray headphones and long open coat exactly like the sheet. Facing RIGHT. Panel 1: guard, both forearms crossed in front of the face, knees bent. Panel 2: skidding backward, boots sliding, small dust puffs, gritting teeth. Panel 3: ducking low, both hands over the head. Panel 4: knocked down, lying on the back, head to the left, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-ratchet-bsb",
+  "char": "Ratchet",
+  "outfit": "Hero",
+  "pose": "react",
+  "refs": [
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Hero",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Keep his gray headphones and long open coat exactly like the sheet. Story reactions, facing RIGHT. Panel 1: shocked, both hands on the cheeks, jaw dropped, eyes wide. Panel 2: pointing forward, shouting. Panel 3: thinking, one finger on the chin, eyes looking up. Panel 4: cheering, both arms up, jumping for joy. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-ratchet-bsb",
+  "char": "Ratchet",
+  "outfit": "Hero",
+  "pose": "dance",
+  "refs": [
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Hero",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Keep his gray headphones and long open coat exactly like the sheet. Fun victory dance, facing the viewer turned slightly to the right, big grin, feet at the same height in every panel. Panel 1: flexing both arms. Panel 2: one finger pointing to the sky, hip out. Panel 3: shuffle step, one arm swinging. Panel 4: one boot kicked out, both thumbs pointing at the chest. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "sp-ratchet-bsb",
+  "char": "Ratchet",
+  "outfit": "Hero",
+  "pose": "sp",
+  "refs": [
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "folder": "Ratchet/Hero",
+  "prompt": "2D game SPRITE SHEET of Ratchet (boy) from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body Ratchet (boy) per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Hero suit exactly as on the sheet: goggles over the eyes reaching right up into the hair, no forehead showing, no eyebrows over the goggles; fingerless gloves. Every hand has exactly 3 fingers + 1 thumb. No weapon unless a panel says so. Keep his gray headphones and long open coat exactly like the sheet. Facing RIGHT, using the Highflying Hoverboard (white board with orange stripe and black wheels, copy it from the sheet). Panel 1: quick orange glow flash at the glove as the hoverboard appears under his arm. Panel 2: jumping onto the hovering board. Panel 3: riding the hoverboard, crouched, surfing forward, orange speed lines behind. Panel 4: hoverboard trick high in the air, board flipping under his boots. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-bebot-bsb",
+  "char": "BeBot",
+  "outfit": "",
+  "pose": "base",
+  "refs": [
+   "BSB-BeBot-Sheet-NoHands.png"
+  ],
+  "folder": "BeBot",
+  "prompt": "2D game SPRITE SHEET of BeBot, the small cute blue robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body BeBot, the small cute blue robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Every hand has exactly 3 fingers + 1 thumb. Keep his big round eyes, yellow-tipped antenna and yellow V chest exactly like the sheet. Facing RIGHT. Panel 1: happy idle stance, antenna bobbing. Panel 2: waving hello with one hand. Panel 3: hit, knocked back, small yellow impact star, eyes squeezed shut. Panel 4: victory, both arms up, happy eyes. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-bebot-bsb",
+  "char": "BeBot",
+  "outfit": "",
+  "pose": "run",
+  "refs": [
+   "BSB-BeBot-Sheet-NoHands.png"
+  ],
+  "folder": "BeBot",
+  "prompt": "2D game SPRITE SHEET of BeBot, the small cute blue robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body BeBot, the small cute blue robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Every hand has exactly 3 fingers + 1 thumb. Keep his big round eyes, yellow-tipped antenna and yellow V chest exactly like the sheet. Facing RIGHT, side view, quick little run cycle, arms pumping. Panel 1: right leg forward. Panel 2: passing pose. Panel 3: left leg forward. Panel 4: both feet off the ground. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-bebot-bsb",
+  "char": "BeBot",
+  "outfit": "",
+  "pose": "air",
+  "refs": [
+   "BSB-BeBot-Sheet-NoHands.png"
+  ],
+  "folder": "BeBot",
+  "prompt": "2D game SPRITE SHEET of BeBot, the small cute blue robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body BeBot, the small cute blue robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Every hand has exactly 3 fingers + 1 thumb. Keep his big round eyes, yellow-tipped antenna and yellow V chest exactly like the sheet. Facing RIGHT. Panel 1: jumping up, arms raised. Panel 2: hovering with small blue jet flames under both boots. Panel 3: flying forward fast, jet flames, speed lines. Panel 4: landing softly, knees bent. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-bebot-bsb",
+  "char": "BeBot",
+  "outfit": "",
+  "pose": "block",
+  "refs": [
+   "BSB-BeBot-Sheet-NoHands.png"
+  ],
+  "folder": "BeBot",
+  "prompt": "2D game SPRITE SHEET of BeBot, the small cute blue robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body BeBot, the small cute blue robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Every hand has exactly 3 fingers + 1 thumb. Keep his big round eyes, yellow-tipped antenna and yellow V chest exactly like the sheet. Facing RIGHT. Panel 1: hiding behind both raised arms. Panel 2: ducking low, hands over the head. Panel 3: skidding backward, sparks at the feet. Panel 4: knocked down on his back, little dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "react-bebot-bsb",
+  "char": "BeBot",
+  "outfit": "",
+  "pose": "react",
+  "refs": [
+   "BSB-BeBot-Sheet-NoHands.png"
+  ],
+  "folder": "BeBot",
+  "prompt": "2D game SPRITE SHEET of BeBot, the small cute blue robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body BeBot, the small cute blue robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Every hand has exactly 3 fingers + 1 thumb. Keep his big round eyes, yellow-tipped antenna and yellow V chest exactly like the sheet. Story reactions, facing RIGHT. Panel 1: shocked, eyes huge, hands on the cheeks. Panel 2: pointing forward, excited. Panel 3: thinking, hand on the chin, small yellow spark at the antenna tip. Panel 4: shrugging, both palms up. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "dance-bebot-bsb",
+  "char": "BeBot",
+  "outfit": "",
+  "pose": "dance",
+  "refs": [
+   "BSB-BeBot-Sheet-NoHands.png"
+  ],
+  "folder": "BeBot",
+  "prompt": "2D game SPRITE SHEET of BeBot, the small cute blue robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body BeBot, the small cute blue robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Every hand has exactly 3 fingers + 1 thumb. Keep his big round eyes, yellow-tipped antenna and yellow V chest exactly like the sheet. Fun robot dance, facing the viewer turned slightly right. Panel 1: robot arms bent at right angles. Panel 2: spinning on one foot. Panel 3: one arm waving, one hip out. Panel 4: both thumbs up, happy eyes. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "sp-bebot-bsb",
+  "char": "BeBot",
+  "outfit": "",
+  "pose": "sp",
+  "refs": [
+   "BSB-BeBot-Sheet-NoHands.png"
+  ],
+  "folder": "BeBot",
+  "prompt": "2D game SPRITE SHEET of BeBot, the small cute blue robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat magenta (#FF00FF) background filling every panel, no floor, no cast shadows. One full-body BeBot, the small cute blue robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Every hand has exactly 3 fingers + 1 thumb. Keep his big round eyes, yellow-tipped antenna and yellow V chest exactly like the sheet. Facing RIGHT, using the Squadlink super computer (blue folding case, copy it from the sheet). Panel 1: holding the folded Squadlink case. Panel 2: opening it, blue holographic screens popping up. Panel 3: typing on the case with holographic screens floating around it. Panel 4: thumbs up beside the open Squadlink, happy eyes. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-vylex-bsb",
+  "char": "Vylex",
+  "outfit": "",
+  "pose": "base",
+  "refs": [
+   "BSB-Vylex-Sheet.png"
+  ],
+  "folder": "Vylex",
+  "prompt": "2D game SPRITE SHEET of Vylex, the villain, always in his villain suit from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Vylex, the villain, always in his villain suit per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Fingerless gloves; Every hand has exactly 3 fingers + 1 thumb. Keep his spiky black hair, blue visor, magenta armor and dark-purple coat exactly like the sheet. Weapons only when a panel says so. Facing RIGHT. Panel 1: villain idle, arms crossed, smug smirk, coat hanging. Panel 2: fighting stance, fists up, sneering. Panel 3: hit, knocked back, small yellow impact star, coat flapping. Panel 4: knocked down on his back, dizzy stars. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "enter-vylex-bsb",
+  "char": "Vylex",
+  "outfit": "",
+  "pose": "enter",
+  "refs": [
+   "BSB-Vylex-Sheet.png"
+  ],
+  "folder": "Vylex",
+  "prompt": "2D game SPRITE SHEET of Vylex, the villain, always in his villain suit from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Vylex, the villain, always in his villain suit per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Fingerless gloves; Every hand has exactly 3 fingers + 1 thumb. Keep his spiky black hair, blue visor, magenta armor and dark-purple coat exactly like the sheet. Weapons only when a panel says so. Facing RIGHT, dramatic entrance. Panel 1: dropping down from above, coat billowing. Panel 2: landing on one knee, fist on the ground. Panel 3: rising up, coat swirling. Panel 4: standing tall, arms spread wide, evil grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "taunt-vylex-bsb",
+  "char": "Vylex",
+  "outfit": "",
+  "pose": "taunt",
+  "refs": [
+   "BSB-Vylex-Sheet.png"
+  ],
+  "folder": "Vylex",
+  "prompt": "2D game SPRITE SHEET of Vylex, the villain, always in his villain suit from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Vylex, the villain, always in his villain suit per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Fingerless gloves; Every hand has exactly 3 fingers + 1 thumb. Keep his spiky black hair, blue visor, magenta armor and dark-purple coat exactly like the sheet. Weapons only when a panel says so. Facing RIGHT, taunting the heroes. Panel 1: wagging one finger, smirking. Panel 2: hand cupped to his ear, mocking. Panel 3: laughing, head thrown back, hands on hips. Panel 4: beckoning come here with one hand. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "scheme-vylex-bsb",
+  "char": "Vylex",
+  "outfit": "",
+  "pose": "scheme",
+  "refs": [
+   "BSB-Vylex-Sheet.png"
+  ],
+  "folder": "Vylex",
+  "prompt": "2D game SPRITE SHEET of Vylex, the villain, always in his villain suit from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Vylex, the villain, always in his villain suit per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Fingerless gloves; Every hand has exactly 3 fingers + 1 thumb. Keep his spiky black hair, blue visor, magenta armor and dark-purple coat exactly like the sheet. Weapons only when a panel says so. Facing RIGHT, scheming. Panel 1: rubbing his hands together, sly grin. Panel 2: fingertips pressed together, plotting. Panel 3: evil laugh, one fist raised. Panel 4: pointing forward, giving an order. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "tantrum-vylex-bsb",
+  "char": "Vylex",
+  "outfit": "",
+  "pose": "tantrum",
+  "refs": [
+   "BSB-Vylex-Sheet.png"
+  ],
+  "folder": "Vylex",
+  "prompt": "2D game SPRITE SHEET of Vylex, the villain, always in his villain suit from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Vylex, the villain, always in his villain suit per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Fingerless gloves; Every hand has exactly 3 fingers + 1 thumb. Keep his spiky black hair, blue visor, magenta armor and dark-purple coat exactly like the sheet. Weapons only when a panel says so. Facing RIGHT, villain tantrum. Panel 1: stomping one boot, fists shaking. Panel 2: pulling at his hair with both hands. Panel 3: jumping up and down in anger. Panel 4: arms crossed, pouting, turned partly away. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "escape-vylex-bsb",
+  "char": "Vylex",
+  "outfit": "",
+  "pose": "escape",
+  "refs": [
+   "BSB-Vylex-Sheet.png"
+  ],
+  "folder": "Vylex",
+  "prompt": "2D game SPRITE SHEET of Vylex, the villain, always in his villain suit from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Vylex, the villain, always in his villain suit per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Fingerless gloves; Every hand has exactly 3 fingers + 1 thumb. Keep his spiky black hair, blue visor, magenta armor and dark-purple coat exactly like the sheet. Weapons only when a panel says so. Facing RIGHT, running away. Panel 1: looking back over the shoulder, worried, starting to run. Panel 2: full sprint, coat flapping. Panel 3: leaping, coat streaming behind. Panel 4: glancing back and shaking a fist while running off. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-vylex-bsb",
+  "char": "Vylex",
+  "outfit": "",
+  "pose": "atk",
+  "refs": [
+   "BSB-Vylex-Sheet.png"
+  ],
+  "folder": "Vylex",
+  "prompt": "2D game SPRITE SHEET of Vylex, the villain, always in his villain suit from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Vylex, the villain, always in his villain suit per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Fingerless gloves; Every hand has exactly 3 fingers + 1 thumb. Keep his spiky black hair, blue visor, magenta armor and dark-purple coat exactly like the sheet. Weapons only when a panel says so. Facing RIGHT, using his gauntlet blades (copy from the sheet). Panel 1: blades extending from the gauntlets with a magenta flash. Panel 2: slash forward, magenta motion arc. Panel 3: second slash, other arm, motion arc. Panel 4: blades crossed in front of him, sneering. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-vylex-bsb",
+  "char": "Vylex",
+  "outfit": "",
+  "pose": "block",
+  "refs": [
+   "BSB-Vylex-Sheet.png"
+  ],
+  "folder": "Vylex",
+  "prompt": "2D game SPRITE SHEET of Vylex, the villain, always in his villain suit from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Vylex, the villain, always in his villain suit per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Fingerless gloves; Every hand has exactly 3 fingers + 1 thumb. Keep his spiky black hair, blue visor, magenta armor and dark-purple coat exactly like the sheet. Weapons only when a panel says so. Facing RIGHT, using his giant energy shield (glowing magenta octagon, copy from the sheet). Panel 1: shield forming in front of his hand. Panel 2: shield fully up, blocking. Panel 3: pushed back behind the shield, boots skidding. Panel 4: shield fading, smug grin. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "base-nobots-bsb",
+  "char": "NoBots",
+  "outfit": "",
+  "pose": "base",
+  "refs": [
+   "BSB-NoBots-Sheet-NoHands.png"
+  ],
+  "folder": "NoBots",
+  "prompt": "2D game SPRITE SHEET of No-Bot, Vylex's purple cat-eared robot minion from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body No-Bot, Vylex's purple cat-eared robot minion per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Very simple shapes like the sheet. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT. Panel 1: idle stance, eyes glowing cyan. Panel 2: ready stance, fists up. Panel 3: hit, knocked back, sparks flying. Panel 4: knocked down on its back, sparks and little smoke puffs. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-nobots-bsb",
+  "char": "NoBots",
+  "outfit": "",
+  "pose": "run",
+  "refs": [
+   "BSB-NoBots-Sheet-NoHands.png"
+  ],
+  "folder": "NoBots",
+  "prompt": "2D game SPRITE SHEET of No-Bot, Vylex's purple cat-eared robot minion from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body No-Bot, Vylex's purple cat-eared robot minion per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Very simple shapes like the sheet. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT, side view, stiff robot run cycle. Panel 1: right leg forward. Panel 2: passing pose. Panel 3: left leg forward. Panel 4: both feet off the ground. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-nobots-bsb",
+  "char": "NoBots",
+  "outfit": "",
+  "pose": "air",
+  "refs": [
+   "BSB-NoBots-Sheet-NoHands.png"
+  ],
+  "folder": "NoBots",
+  "prompt": "2D game SPRITE SHEET of No-Bot, Vylex's purple cat-eared robot minion from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body No-Bot, Vylex's purple cat-eared robot minion per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Very simple shapes like the sheet. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT, hover mode. Panel 1: lifting off, pink jet flames under the boots. Panel 2: hovering, arms out. Panel 3: flying forward fast, jet flames, speed lines. Panel 4: diving down at an angle. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-nobots-bsb",
+  "char": "NoBots",
+  "outfit": "",
+  "pose": "atk",
+  "refs": [
+   "BSB-NoBots-Sheet-NoHands.png"
+  ],
+  "folder": "NoBots",
+  "prompt": "2D game SPRITE SHEET of No-Bot, Vylex's purple cat-eared robot minion from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body No-Bot, Vylex's purple cat-eared robot minion per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Very simple shapes like the sheet. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT. Panel 1: arm raised, pink energy charging in the hand. Panel 2: firing a pink energy blast forward from the hand. Panel 3: punch, arm extended, motion smear. Panel 4: both hands blasting forward, big pink burst. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-nobots-bsb",
+  "char": "NoBots",
+  "outfit": "",
+  "pose": "block",
+  "refs": [
+   "BSB-NoBots-Sheet-NoHands.png"
+  ],
+  "folder": "NoBots",
+  "prompt": "2D game SPRITE SHEET of No-Bot, Vylex's purple cat-eared robot minion from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body No-Bot, Vylex's purple cat-eared robot minion per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Very simple shapes like the sheet. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT. Panel 1: pink energy shield forming in front. Panel 2: hiding behind the glowing pink octagon shield. Panel 3: shield cracking, pushed back. Panel 4: shield gone, arms covering the visor. No text, letters, numbers, labels, sound effects or logos anywhere."
+ }
+]
