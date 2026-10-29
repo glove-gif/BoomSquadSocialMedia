@@ -1293,6 +1293,72 @@
   "prompt": "2D game SPRITE SHEET of Wreck-O-Bot, Vylex's giant gorilla-like robot from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body Wreck-O-Bot, Vylex's giant gorilla-like robot per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep his huge build, swept-back spiky dark-gray crest, dark visor with two small red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Every hand has exactly 3 fingers + 1 thumb. Much bigger and heavier than a kid. Facing RIGHT. Panel 1: chest core charging, bright purple glow, fists clenched. Panel 2: firing a big purple energy beam forward from the chest core. Panel 3: roaring, both fists raised, red eyes glowing. Panel 4: powering down, core dim, a little steam venting. No text, letters, numbers, labels, sound effects or logos anywhere."
  },
  {
+  "id": "base-speedbots-bsb",
+  "char": "SpeedBots",
+  "outfit": "",
+  "pose": "base",
+  "refs": [
+   "BSB-SpeedBots-Sheet.png"
+  ],
+  "folder": "SpeedBots",
+  "prompt": "2D game SPRITE SHEET of SpeedBot, one of Vylex's fast gray robot minions from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body SpeedBot, one of Vylex's fast gray robot minions per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep its smooth rounded light-gray armor, spiky dark-gray crest on top of its head, black visor with two glowing red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Very simple shapes. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT. Panel 1: idle stance, eyes glowing red. Panel 2: ready stance, fists up. Panel 3: hit, knocked back, sparks flying. Panel 4: plopped down sitting on the ground, sparks and little smoke puffs. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "run-speedbots-bsb",
+  "char": "SpeedBots",
+  "outfit": "",
+  "pose": "run",
+  "refs": [
+   "BSB-SpeedBots-Sheet.png"
+  ],
+  "folder": "SpeedBots",
+  "prompt": "2D game SPRITE SHEET of SpeedBot, one of Vylex's fast gray robot minions from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body SpeedBot, one of Vylex's fast gray robot minions per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep its smooth rounded light-gray armor, spiky dark-gray crest on top of its head, black visor with two glowing red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Very simple shapes. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT, side view, super-fast run cycle, leaning far forward, purple speed streaks behind it. Panel 1: right leg far forward. Panel 2: passing pose. Panel 3: left leg far forward. Panel 4: both feet off the ground, legs split. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "atk-speedbots-bsb",
+  "char": "SpeedBots",
+  "outfit": "",
+  "pose": "atk",
+  "refs": [
+   "BSB-SpeedBots-Sheet.png"
+  ],
+  "folder": "SpeedBots",
+  "prompt": "2D game SPRITE SHEET of SpeedBot, one of Vylex's fast gray robot minions from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body SpeedBot, one of Vylex's fast gray robot minions per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep its smooth rounded light-gray armor, spiky dark-gray crest on top of its head, black visor with two glowing red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Very simple shapes. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT. Panel 1: fast dash forward, purple speed streaks. Panel 2: rapid punch, arm extended, white motion smear and impact star. Panel 3: spinning kick, purple motion arc. Panel 4: back in ready stance. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "air-speedbots-bsb",
+  "char": "SpeedBots",
+  "outfit": "",
+  "pose": "air",
+  "refs": [
+   "BSB-SpeedBots-Sheet.png"
+  ],
+  "folder": "SpeedBots",
+  "prompt": "2D game SPRITE SHEET of SpeedBot, one of Vylex's fast gray robot minions from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body SpeedBot, one of Vylex's fast gray robot minions per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep its smooth rounded light-gray armor, spiky dark-gray crest on top of its head, black visor with two glowing red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Very simple shapes. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT. Panel 1: springing up, knees tucked. Panel 2: flying dash forward through the air, speed lines. Panel 3: falling feet first. Panel 4: landing in a low crouch, one hand touching down. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "block-speedbots-bsb",
+  "char": "SpeedBots",
+  "outfit": "",
+  "pose": "block",
+  "refs": [
+   "BSB-SpeedBots-Sheet.png"
+  ],
+  "folder": "SpeedBots",
+  "prompt": "2D game SPRITE SHEET of SpeedBot, one of Vylex's fast gray robot minions from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body SpeedBot, one of Vylex's fast gray robot minions per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep its smooth rounded light-gray armor, spiky dark-gray crest on top of its head, black visor with two glowing red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Very simple shapes. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT. Panel 1: guard, forearms crossed in front of the visor. Panel 2: skidding backward, sparks at the feet. Panel 3: ducking low, hands over the head. Panel 4: dodging sideways in a blur, purple afterimage. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
+  "id": "sp-speedbots-bsb",
+  "char": "SpeedBots",
+  "outfit": "",
+  "pose": "sp",
+  "refs": [
+   "BSB-SpeedBots-Sheet.png"
+  ],
+  "folder": "SpeedBots",
+  "prompt": "2D game SPRITE SHEET of SpeedBot, one of Vylex's fast gray robot minions from the attached BOOM SQUAD BUDDIES character sheet. Copy every detail from the attached character sheet exactly: hair shape, face, outfit, colors and BSB proportions (big round head, thin limbs, big cartoon hands, huge chunky boots). Same art style as the sheet: bold black outlines, thin white outer stroke, flat colors with one shadow tone, no gradients, no texture. LAYOUT: 2x2 grid of 4 equal panels divided by thin white lines, plain solid flat bright green (#00FF00) background filling every panel, no floor, no cast shadows. One full-body SpeedBot, one of Vylex's fast gray robot minions per panel, same size in every panel, with empty space all around; hair, boots and effects never touch the panel edges. Keep its smooth rounded light-gray armor, spiky dark-gray crest on top of its head, black visor with two glowing red eyes, glowing purple chest core and purple wrist and ankle rings exactly like the sheet. Very simple shapes. Every hand has exactly 3 fingers + 1 thumb. Facing RIGHT. Panel 1: crouched in a runner's starting pose, chest core glowing bright. Panel 2: zooming off in a purple blur. Panel 3: three purple afterimages of itself in a row. Panel 4: skidding to a stop, pointing forward, red eyes glowing. No text, letters, numbers, labels, sound effects or logos anywhere."
+ },
+ {
   "id": "base-nobots-bsb",
   "char": "NoBots",
   "outfit": "",
