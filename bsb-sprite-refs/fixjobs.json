@@ -1,0 +1,312 @@
+[
+ {
+  "id": "react-baboomciv-bsb-3",
+  "path": "Baboom/Civilian/react-baboomciv-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/react-baboomciv-bsb-3.png",
+   "BSB-Baboom-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-baboom-bsb-2",
+  "path": "Baboom/Hero/air-baboom-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/air-baboom-bsb-2.png",
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-baboom-bsb-3",
+  "path": "Baboom/Hero/air-baboom-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/air-baboom-bsb-3.png",
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "sp-baboom-bsb-2",
+  "path": "Baboom/Hero/sp-baboom-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/sp-baboom-bsb-2.png",
+   "BSB-Baboom-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "dance-bebot-bsb-2",
+  "path": "BeBot/dance-bebot-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/dance-bebot-bsb-2.png",
+   "BSB-BeBot-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-blastcaptainciv-bsb-3",
+  "path": "BlastCaptain/Civilian/air-blastcaptainciv-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/air-blastcaptainciv-bsb-3.png",
+   "BSB-BlastCaptain-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-blastcaptain-bsb-2",
+  "path": "BlastCaptain/Hero/air-blastcaptain-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/air-blastcaptain-bsb-2.png",
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-blastcaptain-bsb-3",
+  "path": "BlastCaptain/Hero/air-blastcaptain-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/air-blastcaptain-bsb-3.png",
+   "BSB-BlastCaptain-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "react-scoutciv-bsb-3",
+  "path": "Scout/Civilian/react-scoutciv-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/react-scoutciv-bsb-3.png",
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-scout-bsb-2",
+  "path": "Scout/Hero/air-scout-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/air-scout-bsb-2.png",
+   "BSB-Scout-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-busterciv-bsb-2",
+  "path": "Buster/Civilian/air-busterciv-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/air-busterciv-bsb-2.png",
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "base-busterciv-bsb-2",
+  "path": "Buster/Civilian/base-busterciv-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/base-busterciv-bsb-2.png",
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "gloves-busterciv-bsb-0",
+  "path": "Buster/Civilian/gloves-busterciv-bsb",
+  "frame": "0",
+  "refs": [
+   "fix/gloves-busterciv-bsb-0.png",
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "gloves-busterciv-bsb-1",
+  "path": "Buster/Civilian/gloves-busterciv-bsb",
+  "frame": "1",
+  "refs": [
+   "fix/gloves-busterciv-bsb-1.png",
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "react-busterciv-bsb-3",
+  "path": "Buster/Civilian/react-busterciv-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/react-busterciv-bsb-3.png",
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "base-buster-bsb-2",
+  "path": "Buster/Hero/base-buster-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/base-buster-bsb-2.png",
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-buster-bsb-3",
+  "path": "Buster/Hero/air-buster-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/air-buster-bsb-3.png",
+   "BSB-Buster-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "block-busterciv-bsb-2",
+  "path": "Buster/Civilian/block-busterciv-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/block-busterciv-bsb-2.png",
+   "BSB-Buster-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-gavelciv-bsb-2",
+  "path": "Gavel/Civilian/air-gavelciv-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/air-gavelciv-bsb-2.png",
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-gavelciv-bsb-3",
+  "path": "Gavel/Civilian/air-gavelciv-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/air-gavelciv-bsb-3.png",
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "gloves-gavelciv-bsb-0",
+  "path": "Gavel/Civilian/gloves-gavelciv-bsb",
+  "frame": "0",
+  "refs": [
+   "fix/gloves-gavelciv-bsb-0.png",
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "gloves-gavelciv-bsb-1",
+  "path": "Gavel/Civilian/gloves-gavelciv-bsb",
+  "frame": "1",
+  "refs": [
+   "fix/gloves-gavelciv-bsb-1.png",
+   "BSB-Gavel-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "air-gavel-bsb-2",
+  "path": "Gavel/Hero/air-gavel-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/air-gavel-bsb-2.png",
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "base-gavel-bsb-2",
+  "path": "Gavel/Hero/base-gavel-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/base-gavel-bsb-2.png",
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "block-gavel-bsb-1",
+  "path": "Gavel/Hero/block-gavel-bsb",
+  "frame": "1",
+  "refs": [
+   "fix/block-gavel-bsb-1.png",
+   "BSB-Gavel-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "atk-nobots-bsb-3",
+  "path": "NoBots/atk-nobots-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/atk-nobots-bsb-3.png",
+   "BSB-NoBots-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat bright green (#00FF00) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "block-ratchetciv-bsb-3",
+  "path": "Ratchet/Civilian/block-ratchetciv-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/block-ratchetciv-bsb-3.png",
+   "BSB-Ratchet-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "block-ratchet-bsb-3",
+  "path": "Ratchet/Hero/block-ratchet-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/block-ratchet-bsb-3.png",
+   "BSB-Ratchet-Hero-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "block-scoutciv-bsb-1",
+  "path": "Scout/Civilian/block-scoutciv-bsb",
+  "frame": "1",
+  "refs": [
+   "fix/block-scoutciv-bsb-1.png",
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "block-scoutciv-bsb-3",
+  "path": "Scout/Civilian/block-scoutciv-bsb",
+  "frame": "3",
+  "refs": [
+   "fix/block-scoutciv-bsb-3.png",
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ },
+ {
+  "id": "base-scoutciv-bsb-2",
+  "path": "Scout/Civilian/base-scoutciv-bsb",
+  "frame": "2",
+  "refs": [
+   "fix/base-scoutciv-bsb-2.png",
+   "BSB-Scout-Civilian-Sheet-NoHands.png"
+  ],
+  "prompt": "Redraw image 1 EXACTLY the same: same character, same pose, same framing and size, same colors, same bold black outlines and white outer stroke, same plain solid flat magenta (#FF00FF) background, nothing else changed. Fix ONLY the hands: every visible hand must have exactly 3 fingers and 1 thumb (4 digits total), like the BOOM SQUAD BUDDIES character sheet in image 2. Copy the character's look from image 2. A single character, no grid, no panels, no text."
+ }
+]
