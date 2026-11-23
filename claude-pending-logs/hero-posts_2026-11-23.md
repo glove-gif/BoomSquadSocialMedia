@@ -11,11 +11,11 @@ No 3:30 PM Book Spotlight this week: glove-gif/gloverauthorsocials is not in thi
 ## For "## Log" in claude/boom-squad-schedule-log.md
 - 2026-11-25 12:15 PM | image | TheBoomSquad-Gavel-GiveThanksAlwaysPost-Square-SocialMedia_2026-11-23 | 01d1145323d24b9bb30f90173fdfba05 | IG+FB
 - 2026-11-26 12:15 PM | image | TheBoomSquad-Buster-BlastCaptain-BeBot-HolidayThanksgivingJoyfulNoisePost-Square-SocialMedia_2026-11-23 | 14b49650327c4d33934b9250bdc50a07 | IG+FB | book line: Heroes of the Bible
-- 2026-11-27 12:15 PM | image | TheBoomSquad-BeBot-Gavel-BSBEveryGoodGiftPost-Square-SocialMedia_2026-11-23-v3 | 1c277a60baab423eab02a3a379f0b925 | IG+FB
+- 2026-11-27 12:15 PM | image | TheBoomSquad-BeBot-Gavel-BSBEveryGoodGiftPost-Square-SocialMedia_2026-11-23-v4 | 60d56e7e3cd4493494da815483b8e496 | IG+FB
 - 2026-11-28 12:15 PM | image | TheBoomSquad-Scout-Ratchet-LookOutForOthersPost-Square-SocialMedia_2026-11-23 | aec883bf36a5461ba01922150c63b3f3 | IG+FB | book line: Watch Out, Scout!
 - 2026-11-29 12:15 PM | image | TheBoomSquad-Ratchet-HolidayAdventHopePost-Square-SocialMedia_2026-11-23 | 73d02e789e5a4c4d9051acbf6271229b | IG+FB
 - 2026-11-30 12:15 PM | image | TheBoomSquad-BeBot-Buster-ChristmasChildIsBornPost-Square-SocialMedia_2026-11-23 | 94e1850a788c4b8e9ffff77d77fa54ac | IG+FB | book line: Young Hero Training Manual
-- 2026-12-01 12:15 PM | image | TheBoomSquad-Baboom-Buster-BSBGoodNewsGreatJoyPost-Square-SocialMedia_2026-11-23-v3 | cf14ba35eb2d462ab13fd08b3cb7be6b | IG+FB
+- 2026-12-01 12:15 PM | image | TheBoomSquad-Baboom-Buster-BSBGoodNewsGreatJoyPost-Square-SocialMedia_2026-11-23-v4 | 43ea99fac4864b2bb7f9e2e01020cb00 | IG+FB
 
 ## For the Daily Post Log (planned posting order; date | heroes | theme | verse | layout/colors | status)
 - 2026-11-23 | Gavel (solo + 2 small Gavel poses) | Give thanks in all circumstances (Thanksgiving week) | 1 Thessalonians 5:18 | amber sunburst, autumn leaves, brown ground, big jumping Gavel right | scheduled Nov 25 IG+FB (Upload-Post)
